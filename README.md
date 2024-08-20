@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Software Development at the Technology College of Osasco - FATEC Osasco.
 - 💬 Interested in most of Tech topics, such as programing, software engineering, A.I, robotics, Iot etc.
 
-## Ferramentas
+## Tools
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 
-## Aprendendo mais sobre...
+## Daily learning more about...
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">

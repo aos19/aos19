@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Software Development at the Technology College of Osasco - FATEC Osasco.
-- 💬 Interested in most of Tech topics, such as programing, software engineering, A.I, robotics, Iot etc.
+- 🌱 I’m currently learning **Software Development** at the Technology College of Osasco - FATEC Osasco.
+- 💬 Interested in most of **Tech topics**, such as programing, software engineering, A.I, robotics, Iot etc.
 
 ## Tools
 <div>
